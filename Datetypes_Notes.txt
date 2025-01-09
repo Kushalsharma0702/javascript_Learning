@@ -1,0 +1,9 @@
+Two types of datatypes:
+1.primitive
+  7) types string,numbers,boolean,null,undefined,symbol,BigInt
+2.Non-primitive (Reference typed)
+  Array, Objects, Functions
+
+Javascript is Dynamically Typed Language 
+
+
